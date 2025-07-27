@@ -74,8 +74,8 @@ This notebook is built using **TensorFlow/Keras** and focuses on using **deep le
 
 After training and evaluating the model, predictions were generated and submitted to the **CrowdFlower: Weather Twitter** competition on Kaggle.
 
-- ✅ **Final RMSE Score**: `0.16365`
-- 🧪 **Public RMSE Score (evaluated)**: `0.16344`
+- ✅ **Final RMSE Score**: `0.16294`
+- 🧪 **Public RMSE Score (evaluated)**: `0.16280`
 - 📏 **Evaluation Metric**: Root Mean Squared Error (RMSE)
 - ⏳ **Note**: The submission was made after the competition deadline, so it was **not reflected on the public leaderboard**.
 
